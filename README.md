@@ -1,4 +1,4 @@
-# BoardBox
+# Generic Board Box
 
 A generic box for holding PCBs with the following charactistics:
 
