@@ -1,6 +1,6 @@
 # Generic Board Box
 
-A generic box for holding PCBs with the following charactistics:
+A generic box for holding PCBs with the following characteristics:
 
 * 100 mm x 100 mm size (max size to qualify for JLC PCBs special price)
 * 5 mm corner radius
